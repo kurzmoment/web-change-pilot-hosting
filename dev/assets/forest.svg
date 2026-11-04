@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Lesní údolí s cestou mezi stromy">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b8d0c4"/><stop offset="1" stop-color="#e5e7d8"/></linearGradient>
+    <linearGradient id="hill" x2="0" y2="1"><stop stop-color="#6d9278"/><stop offset="1" stop-color="#315b43"/></linearGradient>
+  </defs>
+  <rect width="900" height="620" fill="url(#sky)"/>
+  <circle cx="693" cy="126" r="54" fill="#e8dcb1" opacity=".82"/>
+  <path d="M0 302 185 132l167 167 145-129 206 163 108-118 89 68v337H0Z" fill="#819c83"/>
+  <path d="M0 365 178 218l159 146 183-170 188 182 127-103 65 43v304H0Z" fill="#557a5b"/>
+  <path d="M0 438 205 292l151 119 164-155 192 165 121-90 67 55v234H0Z" fill="url(#hill)"/>
+  <path d="M382 620c57-116 78-190 34-282 86 66 147 159 204 282Z" fill="#d6c9a4"/>
+  <path d="M0 432 83 309l82 123ZM102 442l99-168 95 168ZM670 433l93-163 92 163ZM762 450l78-138 83 138Z" fill="#294c39" opacity=".82"/>
+  <g fill="#3f684a"><path d="m45 438 48-136 51 136Z"/><path d="m111 451 65-181 66 181Z"/><path d="m733 446 61-177 62 177Z"/><path d="m812 453 42-122 46 122Z"/></g>
+  <path d="M0 540c122-44 203-21 293 6s173 24 264-8 221-19 343 17v65H0Z" fill="#284a39" opacity=".45"/>
+</svg>
